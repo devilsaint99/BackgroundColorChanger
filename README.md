@@ -1,5 +1,5 @@
 # This is a Background color changer using react.
 
-### Technologies uses:
+### Technologies used:
 - React JS
 - Recoil
